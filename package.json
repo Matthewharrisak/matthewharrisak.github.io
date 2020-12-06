@@ -36,7 +36,9 @@
         "url": "https://github.com/StartBootstrap/startbootstrap-agency.git"
     },
     "dependencies": {
-        "bootstrap": "4.5.3"
+        "body-parser": "^1.19.0",
+        "bootstrap": "4.5.3",
+        "express": "^4.17.1"
     },
     "devDependencies": {
         "autoprefixer": "10.0.1",
@@ -47,6 +49,6 @@
         "prettier": "2.1.2",
         "pug": "3.0.0",
         "sass": "1.28.0",
-        "shelljs": "0.8.4"
+        "shelljs": "^0.8.4"
     }
 }
