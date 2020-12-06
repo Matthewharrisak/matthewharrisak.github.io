@@ -1,1 +1,1 @@
-This website was built using StartBootstrap!
+permalink: /index.html
